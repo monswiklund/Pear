@@ -1,5 +1,5 @@
 using Pear.Models;
-
+// DETHÄR BORDE MAN KUNNA UPPDATERA FÖR PRODUKTER
 namespace Pear.Repositories;
 
 public interface ISubscriberRepository

@@ -5,7 +5,7 @@ namespace Pear.Services;
 
 public class NewsletterService : INewsletterService
 {
-    private readonly ISubscriberRepository _subscriberRepository;
+    private readonly ISubscriberRepository _subscriberRepository; // de
 
     public NewsletterService(ISubscriberRepository subscriberRepository)
     {
